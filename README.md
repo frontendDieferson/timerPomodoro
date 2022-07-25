@@ -1,25 +1,6 @@
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bfukumori/ignite-timer?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bfukumori/ignite-timer">
- 
-  <a href="https://github.com/bfukumori/ignite-timer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/bfukumori/ignite-timer">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/bfukumori/ignite-timer/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/bfukumori/ignite-timer?style=social">
-  </a>
-
-  <a href="https://ignite-timer-rho.vercel.app/">
-    <img alt="ignite-timer" src="https://img.shields.io/badge/ignite-timer-%237159c1?style=flat&logo=ghost">
-  </a>
-</p>
-
 <h1 align="center">
-    <img alt="ignite-timer" title="#ignite-timer" src="./.github/logo.svg" />
+    <img alt="timerPomodoro" title="#timerPomodoro" src="./.github/logo.png" width="40" />
 </h1>
 
 <p align="center">
@@ -67,10 +48,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:bfukumori/ignite-timer.git
+$ git clone https://github.com/frontendDieferson/timerPomodoro.git
 
 # Access the project folder in your terminal
-$ cd ignite-timer
+$ cd timerPomodoro
 
 # Install the dependencies
 $ npm install
@@ -103,7 +84,7 @@ The following tools were used in the construction of the project:
 ## Author
 
 <a href="https://instagram.com/eudiefersonsoares/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82473580?v=4" width="100px;" alt="Dieferson Soares"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62387982?v=4" width="100px;" alt="Dieferson Soares"/>
  <br />
   
  <sub><b>Dieferson Soares</b></sub></a> <a href="https://instagram.com/eudiefersonsoares/" title="instagram"></a>
